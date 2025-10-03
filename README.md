@@ -37,7 +37,7 @@ A responsive personal portfolio showcasing projects and skills.
 ### 🌐 [Project 4: Travel Packing List](#)  
 <!--- A responsive personal portfolio showcasing projects and skills. --->  
 - Built with **React**  
-- Deployed via **Vercel**  
+- Deployed via **Netlify**  
 - Optimized for performance and accessibility  
 
 ---
