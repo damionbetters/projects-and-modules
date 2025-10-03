@@ -35,7 +35,7 @@ A responsive personal portfolio showcasing projects and skills.
 - Optimized for performance and accessibility  --->
 
 ### 🌐 [Project 4: Travel Packing List](#)  
-A responsive personal portfolio showcasing projects and skills.  
+<!--- A responsive personal portfolio showcasing projects and skills. --->  
 - Built with **React**  
 - Deployed via **Vercel**  
 - Optimized for performance and accessibility  
@@ -53,11 +53,11 @@ I believe good software is like good music—clean transitions, no noise, and it
 - 💡 Plotting big-picture innovations for tomorrow’s world  
 
 ---
-
 ## 🤝 Let’s Connect
+- 📫 Reach me at: damionbetters@gmail.com
+<!--
 - 💼 [LinkedIn](#)  
 - 🌐 [Portfolio](#)  
-- 📫 Reach me at: damionbetters@gmail.com
 
 
 
@@ -97,4 +97,4 @@ When I’m not coding, I’m probably:
 
 🌐 Portfolio
 
-📫 Reach me at: your.email@example.com
+📫 Reach me at: your.email@example.com --->
